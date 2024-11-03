@@ -1,0 +1,3 @@
+Gabriel Oviedo,90150227,Jefe,32.0
+Gabriel Oviedo,123456789,Cajero,450.0
+Gabriel Oviedo,123456789,Cajero,450.0
